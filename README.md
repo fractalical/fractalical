@@ -6,11 +6,11 @@
 ## About me <img align="right" src="https://komarev.com/ghpvc/?username=fractalical" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&multiline=true&width=435&height=70&lines=Very+motivated+Python+developer;at+the+beginning+of+his+career+path.)](https://git.io/typing-svg)<br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&vCenter=true&color=A9B7BC&repeat=false&width=300&height=20&lines=Glad+to+yout+connection+on+Linkedin)](https://git.io/typing-svg)
-<a href="https://linkedin.com/in/artur-zakirov">
+<a href="https://linkedin.com/in/artur-zakirov" target="_blank">
 <img src="https://www.svgrepo.com/show/157006/linkedin.svg" height="24"/><br/>
 </a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&vCenter=true&color=A9B7BC&repeat=false&width=190&height=20&lines=Or+message+in+Telegram)](https://git.io/typing-svg)
-<a href="https://t.me/let_there_be_artur">
+<a href="https://t.me/let_there_be_artur" target="_blank">
 <img src="https://www.svgrepo.com/show/349527/telegram.svg" height="24"/><br/><br/>
 </a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&vCenter=true&color=A9B7BC&repeat=false&width=375&height=20&lines=My+stack+(still+being+updated)%3A)](https://git.io/typing-svg)<br/>
