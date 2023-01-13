@@ -4,6 +4,7 @@
 </h1>
 
 ## About me <img align="right" src="https://komarev.com/ghpvc/?username=fractalical" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <h6>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&multiline=true&width=435&height=80
