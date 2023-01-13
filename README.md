@@ -16,7 +16,7 @@
 <img src="https://www.svgrepo.com/show/373554/django.svg" height="44"/>
 
 <h2 align="left">My github activities</h2>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fractalical&theme=github_dark)<br/>
+![](https://raw.github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fractalical&theme=github_dark)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fractalical&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fractalical&theme=github_dark)
 
