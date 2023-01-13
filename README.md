@@ -19,8 +19,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fractalical&theme=github_dark">
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fractalical&theme=github_dark">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fractalical&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fractalical&theme=github_dark" alt="ph1">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fractalical&theme=github_dark" alt="ph2">
 </p>
 
 <h2 align="left">My leetcode activities</h2>
