@@ -7,6 +7,7 @@
     <img align="center" src="https://www.emojiall.com/images/60/skype/1f468-200d-1f4bb.png" height="28"/>
     <img align="right" src="https://komarev.com/ghpvc/?username=fractalical"/>
 </h2>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&multiline=true&width=435&height=60&lines=I'm+very+motivated+Python+developer;will+glad+to+connect+to+interesting+project.)](https://git.io/typing-svg)<br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=5000&vCenter=true&color=A9B7BC&repeat=false&width=300&height=20&lines=Glad+to+your+connection+on+Linkedin)](https://git.io/typing-svg)
 <a href="https://linkedin.com/in/artur-zakirov" target="_blank">
