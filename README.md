@@ -18,10 +18,14 @@
 <img src="https://www.svgrepo.com/show/349527/telegram.svg" height="24"/><br/><br/>
 </a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=5500&pause=2000vCenter=true&color=A9B7BC&repeat=false&width=375&height=20&lines=+;My+stack+(still+being+updated)%3A)](https://git.io/typing-svg)<br/>
-<img src="https://www.svgrepo.com/show/354238/python.svg" height="44"/>
-<img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="44"/>
-<img src="https://www.svgrepo.com/show/374094/sqlite.svg" height="44"/>
-<img src="https://www.svgrepo.com/show/373554/django.svg" height="44"/>
+<img src="https://www.svgrepo.com/show/354238/python.svg" alt="Python" height="44"/>
+<img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="Fastapi" height="44"/>
+<img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" height="44"/>
+<img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="Celery" height="44"/>
+<img src="https://www.svgrepo.com/show/354272/redis.svg" alt="Redis" height="44"/>
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="Postgresql" height="44"/>
+<img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="SQLite" height="44"/>
+<img src="https://www.svgrepo.com/show/452192/docker.svg" alt="Docker" height="44"/>
 
 <h2 align="left">My github activities
     <img align="center" src="https://www.svgrepo.com/show/449764/github.svg" height="28"/>
