@@ -5,7 +5,6 @@
 
 <h2 align="left">About me 
     <img align="center" src="https://www.emojiall.com/images/60/skype/1f468-200d-1f4bb.png" height="28"/>
-    <img align="right" src="https://komarev.com/ghpvc/?username=fractalical"/>
 </h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&multiline=true&width=435&height=60&lines=Born+to+dilly+dally,+forced+to+lock+in.)](https://git.io/typing-svg)<br/>
